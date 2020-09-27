@@ -118,18 +118,6 @@ $ npx react-native run-android
 [![installchoco](https://i.ibb.co/1rYvZqt/init2.png)](https://nodesource.com/products/nsolid)
 [![installchoco](https://i.ibb.co/M87x1pQ/init3.png)](https://nodesource.com/products/nsolid)
 [![installchoco](https://i.ibb.co/ZhGFjf6/init4.png)](https://nodesource.com/products/nsolid)
-### Bahan
-
-Berikut adalah bahan bahan yang digunakan pada proses installasi react native ini
-
-| Plugin | README |
-| ------ | ------ |
-| React Native  | [reactnative.dev](https://reactnative.dev/) |
-| Chocolatey | [chocolatey.org](https://chocolatey.org/) |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
