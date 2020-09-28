@@ -120,6 +120,12 @@ $ npx react-native run-android
 [![installchoco](https://i.ibb.co/ZhGFjf6/init4.png)](https://nodesource.com/products/nsolid)
 
 
+### Next episode
+  - Memahami life-cycle react native
+  - memahami kode dasar reactt native
+  - Melakukan layouting screen menggunakan react native, dan mengetahui dasar flexing layout
+  - Mempelajari beberapa elemendasar dalam react native
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
