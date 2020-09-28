@@ -126,6 +126,22 @@ $ npx react-native run-android
   - Melakukan layouting screen menggunakan react native, dan mengetahui dasar flexing layout
   - Mempelajari beberapa elemendasar dalam react native
 
+
+### Android error troubleshoot
+__hipotesis 1:__ 
+buka android studio dan buka project react native yang telah di init 
+
+[![installchoco](https://i.ibb.co/LYsxw20/trbland1.png)](https://nodesource.com/products/nsolid)
+
+setelah terbuka tunggu hingga proses pembukaan project selesai. Ketika proses sudah selesai, click logo gajah yang ada di pojok kanan atas, action ini akan melakukan download depedency. kemudian tunggu hingga proses selesai.
+
+[![installchoco](https://i.ibb.co/516wvqM/trbland2.png)](https://nodesource.com/products/nsolid)
+
+setelah proses download depedency di androidstudio Selesai -> jalankan terminal di directory project react native anda -> dan jalankan kembali command ini
+
+```sh
+$ npx react-native run-android
+```
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
