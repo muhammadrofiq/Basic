@@ -144,6 +144,19 @@ $ npx react-native run-android
 ```
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+__hipotesis 2: kesalahan pada pengaturan path dan platform tools__ 
+error message : 
+[![installchoco](https://i.ibb.co/bd78pcj/error2.png)](https://nodesource.com/products/nsolid)
+
+Sesuaikan lokasi platform tools berdasarkann environmet anda. biasanya berada pada  :
+```sh
+c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools
+```
+ganti `YOUR_USERNAME` Sesuai dengan user andda dan pastikan bahwa lokasi platformtools sesuai yang ada pada device anda .
+
+jika android emulator sudah muncul, jangan lupa approve __USB Debuging__ :
+[![installchoco](https://i.ibb.co/mTMr6cX/Emulator1.png)](https://nodesource.com/products/nsolid)
+
 
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
